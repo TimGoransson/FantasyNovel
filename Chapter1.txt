@@ -2,10 +2,13 @@ Chapter 1
 
 The beginning of a fascinating story. Something about dragons and wizards. Etc.
 
+<<<<<<< HEAD
 Snubben gick till slottet. Nu j‰vlar blir det brÂk och hus i helvete.
 
 Han slog och svor som om han vore en bror.
 
+=======
+>>>>>>> parent of cca4798... Till√§gg av story 01 David
 The hero is victorious!
 
 
