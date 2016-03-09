@@ -2,11 +2,19 @@ Chapter 1
 
 The beginning of a fascinating story. Something about dragons and wizards. Etc.
 
+<<<<<<< HEAD
 Snubben gick till slottet. Nu jävlar blir det bråk och hus i helvete.
 
 Han slog och svor som om han vore en bror.
 
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cca4798... TillÃ¤gg av story 01 David
+The hero is victorious!
+=======
 The hero is bror. Han är ingen hjälte. Han suger. Han dog. 
+>>>>>>> origin/master
+
 
 Everyone goes to the tavern and drinks ale. There are dwarves.
 
